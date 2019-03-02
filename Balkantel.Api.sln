@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balkantel.Api.Surveillance", "Balkantel.Api.Surveillance\Balkantel.Api.Surveillance.csproj", "{06E7EBAF-5891-4F6C-AEE0-E592C77EEF86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06E7EBAF-5891-4F6C-AEE0-E592C77EEF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E7EBAF-5891-4F6C-AEE0-E592C77EEF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E7EBAF-5891-4F6C-AEE0-E592C77EEF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E7EBAF-5891-4F6C-AEE0-E592C77EEF86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D3B74ED-549E-4CB9-B184-B05C74D347B7}
+	EndGlobalSection
+EndGlobal
